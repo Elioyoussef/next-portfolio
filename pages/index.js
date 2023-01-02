@@ -81,8 +81,8 @@ export default function Home() {
         </section>
 
         <section>
-          <div>
-            <h3 className="text-3xl py-1 dark:text-white">Services I Offer</h3>
+          <div className="">
+            <h3 className="text-3xl py-1 dark:text-white">Services:</h3>
             <p className="text-md py-2 leading-6 text-gray-800 dark:text-white">
               I offer a range of front-end development services, including
               building{" "}
@@ -163,13 +163,13 @@ export default function Home() {
               <span className="text-teal-500">discuss your project</span> in
               more detail, please dont hesitate to get in touch. You can reach
               me by phone at
-              <span className="text-teal-500"> +961 76603125</span> or by email
-              at <span className="text-teal-500">elioyousssef@gmail.com </span>.
+              <span className="text-teal-500"><a href="tel:+96176603125"> +961 76603125</a></span> or by email
+              at <span className="text-teal-500"><a href="mailto:elioyousssef@gmail.com"> elioyousssef@gmail.com </a></span>.
               I am available to schedule calls or meetings at a time that is
               convenient for you and look forward to discussing your project and
               how I can help. I am committed to providing
               <span className="text-teal-500">excellent service </span> and
-              delivering results that exceed your expectations.
+              delivering results that exceed your expectations. 
               <span className="text-teal-500">
                 I look forward to hearing from you soon.
               </span>
