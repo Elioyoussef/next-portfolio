@@ -108,7 +108,7 @@ export default function Home() {
             </p>
           </div>
           <div className=" md:flex gap-5">
-            <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:shadow-white">
+            <div className="text-center shadow-lg p-[15px] rounded-xl my-10 dark:shadow-white">
               <Image
                 src={code}
                 width={100}
@@ -130,7 +130,7 @@ export default function Home() {
                 </p>
               </div>
             </div>
-            <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-gray-850 dark:shadow-white">
+            <div className="text-center shadow-lg p-[15px] rounded-xl my-10 dark:bg-gray-850 dark:shadow-white">
               <Image
                 src={consulting}
                 width={100}
