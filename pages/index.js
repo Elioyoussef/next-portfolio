@@ -32,7 +32,9 @@ export default function Home() {
               </li>
               <li>
                 <a
-                  href=""
+                  href="https://uticuben.sirv.com/Resume/Elio%2BYoussef%2BResume%2B2022-2023.pdf"
+                  target="_blank"
+                  rel="noreferrer"
                   className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-lg ml-8"
                 >
                   Resume
