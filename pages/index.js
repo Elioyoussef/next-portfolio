@@ -1,6 +1,6 @@
 import Head from "next/head";
 import { BsFillMoonStarsFill } from "react-icons/bs";
-import { AiFillInstagram, AiFillLinkedin } from "react-icons/ai";
+import { AiFillLinkedin } from "react-icons/ai";
 import Image from "next/legacy/image";
 import ElioAvatar from "../public/avatar-elio-2.png";
 import ElioAvatar2 from "../public/avatar.png";
@@ -54,13 +54,6 @@ export default function Home() {
             </p>
             <div className="flex items-center justify-center text-5xl gap-16 py-3 text-teal-600">
               <a
-                href="https://www.instagram.com/elioyousssef/"
-                target="_blank"
-                rel="noreferrer"
-              >
-                <AiFillInstagram />
-              </a>
-              <a
                 href="https://www.linkedin.com/in/elio-youssef-398247184/"
                 target="_blank"
                 rel="noreferrer"
@@ -98,7 +91,7 @@ export default function Home() {
               <span className="text-teal-500"> project</span>.
             </p>
             <p className="dark:text-white">
-              Whether you need a simple{" "}
+              Whether you need a simple
               <span className="text-teal-500"> landing page</span> or a complex{" "}
               <span className="text-teal-500"> e-commerce </span> platform, I
               have the skills and experience to deliver high-quality code that
