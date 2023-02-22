@@ -136,7 +136,7 @@ export default function Home() {
               <div className="p-4">
                 <p className="dark:text-white">
                   I offer consulting services to help clients plan and execute
-                  their web projects, from initial concept to final deployment.
+                  their web projects, from initial concept to final deployment. 
                   As a front-end software engineer, I have a deep understanding
                   of the technical considerations involved in building
                   successful web projects and can provide guidance on the most
@@ -157,14 +157,14 @@ export default function Home() {
               more detail, please dont hesitate to get in touch. You can reach
               me by phone at
               <span className="text-teal-500"><a href="tel:+96176603125"> +961 76603125</a></span> or by email
-              at <span className="text-teal-500"><a href="mailto:elioyousssef@gmail.com"> elioyousssef@gmail.com </a></span>.
+              at <span className="text-teal-500"><a href="mailto:elioyousssef@gmail.com"> elioyousssef@gmail.com</a></span>.
               I am available to schedule calls or meetings at a time that is
               convenient for you and look forward to discussing your project and
               how I can help. I am committed to providing
-              <span className="text-teal-500">excellent service </span> and
+              <span className="text-teal-500"> excellent service </span> and
               delivering results that exceed your expectations. 
               <span className="text-teal-500">
-                I look forward to hearing from you soon.
+                 I look forward to hearing from you soon.
               </span>
             </p>
           </div>
